@@ -1,0 +1,10 @@
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\bin\Debug\ClassOne.dll
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\bin\Debug\ClassOne.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\bin\Debug\JfkLab3Interface.exe
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\bin\Debug\JfkLab3Interface.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\bin\Debug\JfkLab3Interface.exe.config
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.csprojAssemblyReference.cache
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.csproj.CoreCompileInputs.cache
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.csproj.CopyComplete
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.dll
+E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.pdb

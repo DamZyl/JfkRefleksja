@@ -1,0 +1,6 @@
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\bin\Debug\JfkLab3Interface.exe.config
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\bin\Debug\JfkLab3Interface.exe
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\bin\Debug\JfkLab3Interface.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\obj\Debug\JfkLab3Interface.csproj.CoreCompileInputs.cache
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\obj\Debug\JfkLab3Interface.exe
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Interface\obj\Debug\JfkLab3Interface.pdb

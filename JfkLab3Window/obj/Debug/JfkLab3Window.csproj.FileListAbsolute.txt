@@ -1,0 +1,14 @@
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Window.exe.config
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Window.exe
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Window.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.csprojAssemblyReference.cache
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.Form1.resources
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.Properties.Resources.resources
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.GenerateResource.cache
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.CoreCompileInputs.cache
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.exe
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.exe
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.exe.config
+E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.CopyComplete

@@ -1,0 +1,10 @@
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\bin\Debug\ClassTwo.dll
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\bin\Debug\ClassTwo.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\bin\Debug\JfkLab3Interface.exe
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\bin\Debug\JfkLab3Interface.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\bin\Debug\JfkLab3Interface.exe.config
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.csproj.CoreCompileInputs.cache
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.csproj.CopyComplete
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.dll
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.pdb
+E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.csprojAssemblyReference.cache
