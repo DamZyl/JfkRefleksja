@@ -12,3 +12,17 @@ E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.exe
 E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.pdb
 E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\bin\Debug\JfkLab3Interface.exe.config
 E:\WAT\JFK\lab3\JfkLab3Window\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.CopyComplete
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Window.exe.config
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Window.exe
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Window.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Interface.exe
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Interface.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\bin\Debug\JfkLab3Interface.exe.config
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.Form1.resources
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.Properties.Resources.resources
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.csproj.CopyComplete
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.exe
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\JfkLab3Window\obj\Debug\JfkLab3Window.pdb

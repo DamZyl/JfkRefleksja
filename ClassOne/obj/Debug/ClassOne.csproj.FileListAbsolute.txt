@@ -8,3 +8,13 @@ E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.csproj.CoreCompileInpu
 E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.csproj.CopyComplete
 E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.dll
 E:\WAT\JFK\lab3\JfkLab3Window\ClassOne\obj\Debug\ClassOne.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\bin\Debug\ClassOne.dll
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\bin\Debug\ClassOne.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\bin\Debug\JfkLab3Interface.exe
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\bin\Debug\JfkLab3Interface.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\bin\Debug\JfkLab3Interface.exe.config
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\obj\Debug\ClassOne.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\obj\Debug\ClassOne.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\obj\Debug\ClassOne.csproj.CopyComplete
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\obj\Debug\ClassOne.dll
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassOne\obj\Debug\ClassOne.pdb

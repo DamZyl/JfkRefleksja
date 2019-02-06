@@ -8,3 +8,13 @@ E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.csproj.CopyComplete
 E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.dll
 E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.pdb
 E:\WAT\JFK\lab3\JfkLab3Window\ClassTwo\obj\Debug\ClassTwo.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\bin\Debug\ClassTwo.dll
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\bin\Debug\ClassTwo.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\bin\Debug\JfkLab3Interface.exe
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\bin\Debug\JfkLab3Interface.pdb
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\bin\Debug\JfkLab3Interface.exe.config
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\obj\Debug\ClassTwo.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\obj\Debug\ClassTwo.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\obj\Debug\ClassTwo.csproj.CopyComplete
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\obj\Debug\ClassTwo.dll
+C:\Users\damia\Desktop\Refleksja\JfkRefleksja\ClassTwo\obj\Debug\ClassTwo.pdb

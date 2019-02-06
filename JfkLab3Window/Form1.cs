@@ -1,6 +1,8 @@
 ﻿using JfkLab3Interface;
 using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Windows.Forms;
@@ -23,7 +25,10 @@ namespace JfkLab3Window
 
             foreach (var type in module.GetTypes())
             {
-                AddType(type, newNode);
+                if (typeof(IMyMethod).IsAssignableFrom(type))
+                {
+                    AddType(type, newNode);
+                }
             }
         }
 
@@ -32,7 +37,7 @@ namespace JfkLab3Window
             var newNode = new TreeNode(type.Name) { Tag = type };
             var memberTypeNode = new TreeNode();
             TreeNode memberNode;
-            
+
             memberTypeNode = new TreeNode("Methods");
 
             foreach (var method in type.GetMethods())
@@ -54,7 +59,7 @@ namespace JfkLab3Window
                 memberNode = new TreeNode(stringBuilder.ToString()) { Tag = method };
                 memberTypeNode.Nodes.Add(memberNode);
             }
-            
+
             newNode.Nodes.Add(memberTypeNode);
             parent.Nodes.Add(newNode);
         }
@@ -88,10 +93,10 @@ namespace JfkLab3Window
             }
 
             if (files != null)
-            { 
-                foreach(var file in files)
-                { 
-                    if(file.EndsWith("dll") || file.EndsWith("exe"))
+            {
+                foreach (var file in files)
+                {
+                    if (file.EndsWith("dll") || file.EndsWith("exe"))
                     {
                         assembly = Assembly.LoadFrom(file);
                         PopulateTree();
@@ -104,27 +109,45 @@ namespace JfkLab3Window
         {
             if (catalogTree.SelectedNode?.Tag is MethodInfo)
             {
+                MethodInfo interfaceMethod = (MethodInfo)catalogTree.SelectedNode.Tag;
                 var selectedType = catalogTree.SelectedNode.Parent.Parent.Tag as Type;
-
-                if (!(Activator.CreateInstance(selectedType) is IMyMethods myMethods))
+               
+                if (typeof(double).IsAssignableFrom(interfaceMethod.ReturnType))
                 {
-                    throw new InvalidOperationException();
+                    if (double.TryParse(argumentText.Text, out double x))
+                    {
+                        if (!(Activator.CreateInstance(selectedType) is IMyMethod myMethod))
+                        {
+                            throw new InvalidOperationException();
+                        }
+
+                        double result = myMethod.Method(x);
+
+                        if (result == -1)
+                        {
+                            informationText.Text = "Metoda jest nadpisaną metodą interfejsu IMyMethodInterface, ale podany został zły parametr wejściowy. Proszę postępować zgodnie z opisem metody !!!";
+                            resultText.Text = String.Empty;
+                        }
+
+                        else
+                        {
+                            informationText.Text = "Metoda jest nadpisaną metodą interfejsu IMyMethodInterface";
+                            resultText.Text = result.ToString();
+                        }
+                    }
+
+                    else
+                    {
+                        informationText.Text = "Podany został nieodpowiedni typ parametru !!!";
+                        resultText.Text = String.Empty;
+                    }
                 }
 
-                MethodInfo method = catalogTree.SelectedNode.Tag as MethodInfo;
-
-                object[] argument = new object[1];
-                argument[0] = argumentText.Text as object;
-                
-                try
+                else
                 {
-                    object result = method.Invoke(myMethods, argument);
-                    resultText.Text = result.ToString();
-                }
 
-                catch (Exception exp)
-                {
-                    MessageBox.Show("Błąd: " + exp.ToString());
+                    informationText.Text = "Metoda nie jest nadpisaną metodą interfejsu IMyMethodInterface, wybierz metodę Method !!!";
+                    resultText.Text = String.Empty;
                 }
             }
         }
@@ -133,6 +156,9 @@ namespace JfkLab3Window
         {
             if (catalogTree.SelectedNode?.Tag is MethodInfo selectedMethod)
             {
+                informationText.Text = String.Empty;
+                resultText.Text = String.Empty;
+
                 if (selectedMethod.GetCustomAttribute<DescriptionAttribute>(true) != null)
                 {
                     descriptionText.Text = selectedMethod.GetCustomAttribute<DescriptionAttribute>().Description;
